@@ -6,3 +6,12 @@
 ###### Header 6
 
 ![Image of Princess Pixel Art](https://thumb.ac-illust.com/56/56107e79a7968bcb377508d8fc3f4345_t.jpeg)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+``` javascript
+var myVar = "Hello, world!";
+```
